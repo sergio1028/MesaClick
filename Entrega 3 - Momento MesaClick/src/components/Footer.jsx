@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function Footer() {
-  const developerName = "Faiber Santiago Cano"; // Tu nombre dinámico
+  const developerName = "Sergio Andres Galeano"; 
   const currentYear = new Date().getFullYear();
 
   return (
