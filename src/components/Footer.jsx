@@ -3,7 +3,7 @@ function Footer() {
 
   return (
     <footer className="footer">
-      <p>© {anio} MesaClick - Todos los derechos reservados.</p>
+      <p>© {anio} Sergio Andres Galeano - Todos los derechos reservados.</p>
     </footer>
   );
 }
