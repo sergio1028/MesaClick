@@ -1,15 +1,7 @@
-import Header from "../components/Header";
-import HeroSection from "../components/HeroSection";
-import Footer from "../components/Footer";
+import Inicio from "./Inicio";
 
 function Home() {
-  return (
-    <>
-      <Header />
-      <HeroSection />
-      <Footer />
-    </>
-  );
+  return <Inicio />;
 }
 
 export default Home;

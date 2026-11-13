@@ -1,9 +1,10 @@
-
 function Header() {
   return (
-    <header className="header">
-      <h1>MesaClick 🍽️</h1>
-      <p>Gestiona tus pedidos de forma fácil y rápida</p>
+    <header className="main-header">
+      <div className="header-container">
+        <h1 className="header-title">🍔 MesaClick</h1>
+        <span>Gestiona tus pedidos de forma fácil y rápida</span>
+      </div>
     </header>
   );
 }
